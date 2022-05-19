@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola, I'm Elvio Moretti! 👋
+- 🌱 I’m currently learning Swift.
+- ⚡ Fun fact: I have seen it more than thirty times Back to the Future.
 
 <!--
 **ecali/ecali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
