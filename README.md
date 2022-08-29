@@ -1,5 +1,5 @@
 ### Hola, I'm Elvio Moretti! 👋
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning Flutter.
 - ⚡ Fun fact: I have seen it more than thirty times Back to the Future.
 
 <!--
