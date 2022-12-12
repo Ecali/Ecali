@@ -1,5 +1,7 @@
 ### Hola, I'm Elvio Moretti! 👋
-- 🌱 I’m currently learning Flutter.
+- 🔭 I’m currently working on Simplet React Projects 
+- 🌱 I’m currently learning React js again, after using only Angular for years.
+- 📫 How to reach me: [Mail](mailto:ecali301@gmail.com)
 - ⚡ Fun fact: I have seen it more than thirty times Back to the Future.
 
 <!--
