@@ -4,7 +4,7 @@
   - 🤓 You can see my progress [HERE](https://github.com/stars/ecali/lists/react-projects-ideas); 
 - ⚡ Fun fact: I have seen it more than thirty times Back to the Future.
 
-- 📫 How to reach me: [Mail](mailto:ecali301@gmail.com)
+- 📫 How to reach me: 📩[Mail](mailto:ecali301@gmail.com)
 
 <!--
 **ecali/ecali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
